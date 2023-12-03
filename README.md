@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# algoriza-internship-FE107
+>>>>>>> 6c8931da7cb2d8b10da8988091ee79a382fc0a23
